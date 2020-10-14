@@ -1,29 +1,214 @@
 {
-    "_": 2,
-    "A": 9,
-    "B": 2,
-    "C": 2,
-    "D": 4,
-    "E": 12,
-    "F": 2,
-    "G": 3,
-    "H": 2,
-    "I": 9,
-    "J": 1,
-    "K": 1,
-    "L": 4,
-    "M": 2,
-    "N": 6,
-    "O": 8,
-    "P": 2,
-    "Q": 1,
-    "R": 6,
-    "S": 4,
-    "T": 6,
-    "U": 4,
-    "V": 2,
-    "W": 2,
-    "X": 1,
-    "Y": 2,
-    "Z": 1
+    "_": {
+        "occurences": 2,
+        "value": 0
+    },
+    "A": {
+        "occurences": 9,
+        "value": 1
+    },
+    "a": {
+        "occurences": 0,
+        "value": 0
+    },
+    "B": {
+        "occurences": 2,
+        "value": 3
+    },
+    "b": {
+        "occurences": 0,
+        "value": 0
+    },
+    "C": {
+        "occurences": 2,
+        "value": 3
+    },
+    "c": {
+        "occurences": 0,
+        "value": 0
+    },
+    "D": {
+        "occurences": 4,
+        "value": 2
+    },
+    "d": {
+        "occurences": 0,
+        "value": 0
+    },
+    "E": {
+        "occurences": 12,
+        "value": 1
+    },
+    "e": {
+        "occurences": 0,
+        "value": 0
+    },
+    "F": {
+        "occurences": 2,
+        "value": 4
+    },
+    "f": {
+        "occurences": 0,
+        "value": 0
+    },
+    "G": {
+        "occurences": 3,
+        "value": 2
+    },
+    "g": {
+        "occurences": 0,
+        "value": 0
+    },
+    "H": {
+        "occurences": 2,
+        "value": 4
+    },
+    "h": {
+        "occurences": 0,
+        "value": 0
+    },
+    "I": {
+        "occurences": 9,
+        "value": 1
+    },
+    "i": {
+        "occurences": 0,
+        "value": 0
+    },
+    "J": {
+        "occurences": 1,
+        "value": 8
+    },
+    "j": {
+        "occurences": 0,
+        "value": 0
+    },
+    "K": {
+        "occurences": 1,
+        "value": 5
+    },
+    "k": {
+        "occurences": 0,
+        "value": 0
+    },
+    "L": {
+        "occurences": 4,
+        "value": 1
+    },
+    "l": {
+        "occurences": 0,
+        "value": 0
+    },
+    "M": {
+        "occurences": 2,
+        "value": 3
+    },
+    "m": {
+        "occurences": 0,
+        "value": 0
+    },
+    "N": {
+        "occurences": 6,
+        "value": 1
+    },
+    "n": {
+        "occurences": 0,
+        "value": 0
+    },
+    "O": {
+        "occurences": 8,
+        "value": 1
+    },
+    "o": {
+        "occurences": 0,
+        "value": 0
+    },
+    "P": {
+        "occurences": 2,
+        "value": 3
+    },
+    "p": {
+        "occurences": 0,
+        "value": 0
+    },
+    "Q": {
+        "occurences": 1,
+        "value": 10
+    },
+    "q": {
+        "occurences": 0,
+        "value": 0
+    },
+    "R": {
+        "occurences": 6,
+        "value": 1
+    },
+    "r": {
+        "occurences": 0,
+        "value": 0
+    },
+    "S": {
+        "occurences": 4,
+        "value": 1
+    },
+    "s": {
+        "occurences": 0,
+        "value": 0
+    },
+    "T": {
+        "occurences": 6,
+        "value": 1
+    },
+    "t": {
+        "occurences": 0,
+        "value": 0
+    },
+    "U": {
+        "occurences": 4,
+        "value": 1
+    },
+    "u": {
+        "occurences": 0,
+        "value": 0
+    },
+    "V": {
+        "occurences": 2,
+        "value": 4
+    },
+    "v": {
+        "occurences": 0,
+        "value": 0
+    },
+    "W": {
+        "occurences": 2,
+        "value": 4
+    },
+    "w": {
+        "occurences": 0,
+        "value": 0
+    },
+    "X": {
+        "occurences": 1,
+        "value": 8
+    },
+    "x": {
+        "occurences": 0,
+        "value": 0
+    },
+    "Y": {
+        "occurences": 2,
+        "value": 4
+    },
+    "y": {
+        "occurences": 0,
+        "value": 0
+    },
+    "Z": {
+        "occurences": 1,
+        "value": 10
+    },
+    "z": {
+        "occurences": 0,
+        "value": 0
+    }
 }
