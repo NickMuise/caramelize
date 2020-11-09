@@ -1,0 +1,143 @@
+There are 127 2-letter words:
+aa
+ab
+ad
+ae
+ag
+ah
+ai
+al
+am
+an
+ar
+as
+at
+aw
+ax
+ay
+ba
+be
+bi
+bo
+by
+ch
+da
+de
+di
+do
+ea
+ed
+ee
+ef
+eh
+el
+em
+en
+er
+es
+et
+ew
+ex
+fa
+fe
+fy
+gi
+go
+gu
+ha
+he
+hi
+hm
+ho
+id
+if
+in
+io
+is
+it
+ja
+jo
+ka
+ki
+ko
+ky
+la
+li
+lo
+ma
+me
+mi
+mm
+mo
+mu
+my
+na
+ne
+no
+nu
+ny
+ob
+od
+oe
+of
+oh
+oi
+ok
+om
+on
+oo
+op
+or
+os
+ou
+ow
+ox
+oy
+pa
+pe
+pi
+po
+qi
+re
+sh
+si
+so
+st
+ta
+te
+ti
+to
+ug
+uh
+um
+un
+up
+ur
+us
+ut
+we
+wo
+xi
+xu
+ya
+ye
+yo
+yu
+za
+ze
+zo
+
+1,065 3-letter words
+4,169 4-letter words
+9,320 5-letter words
+16,490 6-letter words
+25,152 7-letter words
+31,392 8-letter words
+26,100 9-letter words
+17,429 10-letter words
+11,885 11-letter words
+7,954 12-letter words
+5,117 13-letter words
+3,029 14-letter words
+1,735 15-letter words
+Above statistics thanks to https://wordfinder.yourdictionary.com/unscramble/_/ (searching using Scrabble US dictionary)
